@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\Debug\Lauflicht.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lauflicht.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lauflicht.map</FILE>
+  <FILE>Lauflicht.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</FILE><LINE>13</LINE></start>
+  <right_to_left><FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</FILE><LINE>23</LINE></right_to_left>
+  <delay><FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</FILE><LINE>52</LINE></delay>
+  <left_to_right><FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</FILE><LINE>35</LINE></left_to_right>
+  <loop><FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</FILE><LINE>44</LINE></loop>
+  <L1><FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</FILE><LINE>54</LINE></L1>
+  <L2><FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</FILE><LINE>56</LINE></L2>
+  <L3><FILE>c:\users\dango\Documents\Atmel Studio\7.0\Lauflicht\Lauflicht\main.asm</FILE><LINE>58</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>
